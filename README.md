@@ -12,4 +12,6 @@ It shall be PyCharm project with:
 - colorlog
 - pytest
 
-[Python 3: create a list of possible ip addresses from a CIDR notation netaddr - IPTutorial.wiki](https://code.google.com/archive/p/netaddr/wikis/IPTutorial.wiki)
+[Python 3: create a list of possible ip addresses from a CIDR notation](https://stackoverflow.com/questions/1942160/python-3-create-a-list-of-possible-ip-addresses-from-a-cidr-notation)
+
+[netaddr - IPTutorial.wiki](https://code.google.com/archive/p/netaddr/wikis/IPTutorial.wiki)
