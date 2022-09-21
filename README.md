@@ -2,7 +2,7 @@
 
 ## Ziel: Script shall write recheable IP addresses into the file.
 
-###Details
+### Details
 Script will ask user to set starting address and stop address. It evaluates validity of input addresses. Counts number of addresses which will be ping through cmd. Estimates time and ask user if want to proceed.
 
 - If YES, then it start pinging addresses. Outputs shall be ALL log file, current log file, txt and csv files and console logging (script or pycharm studio.)
